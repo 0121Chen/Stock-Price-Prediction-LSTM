@@ -1,0 +1,6 @@
+akshare
+tensorflow-cpu
+scikit-learn
+pandas
+matplotlib
+numpy
